@@ -1,0 +1,14 @@
+{
+    "name": "v2ray",
+    "description": "Deploy v2ray and on heroku.",
+    "keywords": ["v2ray"],
+    "env": {
+        "UUID": {
+            "description": "v2ray UUID",
+            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+        }
+    },
+    "website": "https://yeahwu.com",
+    "repository": "https://github.com/yeahwu/v2-heroku",
+    "stack": "container"
+}
